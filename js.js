@@ -2,6 +2,7 @@ var LIST [
     "Cool boy"
     "Wat da Sigma"
     "WOw ssss"
+    "this is actually cool"
 ];
 var BTN = document.getElementById("myButton");
 for ( var i = 0; i < 3 ; i++ ){
