@@ -1,7 +1,7 @@
 var LIST [
     "Cool boy"
     "Wat da Sigma"
-    "WOw"
+    "WOw ssss"
 ];
 var BTN = document.getElementById("myButton");
 for ( var i = 0; i < 3 ; i++ ){
