@@ -1,12 +1,10 @@
-var LIST [
-    "Cool boy"
-    "Wat da Sigma"
-    "WOw ssss"
-    "this is actually cool"
-];
+
 var BTN = document.getElementById("myButton");
+ var doSomething = function (event){
+    alert ("Praise me!");
+    console.log(event)
+}
 for ( var i = 0; i < 3 ; i++ ){
     var newBTN = BTN.cloneNode(true);
     document.body.append(newBtn);
-    alert (" Check sigma" + LIST [i]);
 }
